@@ -1,7 +1,7 @@
 # Compiled class file
 *.class
 *.classpath
-
+*.project
 *.settings
 
 # Log file
@@ -12,6 +12,8 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+
+*/target/
 
 # Package Files #
 *.jar
